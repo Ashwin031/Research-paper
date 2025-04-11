@@ -1,0 +1,11 @@
+{
+  "name": "researchpaper",
+  "version": "1.0.0",
+  "description": "A comprehensive platform for analyzing, summarizing, and generating research papers. This application allows users to upload research papers, chat with them using AI, get summaries, and even generate new research papers on any topic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

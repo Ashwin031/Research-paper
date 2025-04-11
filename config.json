@@ -1,0 +1,7 @@
+{
+    "api_key": "AIzaSyAb0h0btQBSzpwInYUhy2YZA9k7U2Zc510",
+    "model": "gemini-2.0-flash",
+    "temperature": 0.2,
+    "max_output_tokens": 100000,
+    "output_dir": "output"
+} 
